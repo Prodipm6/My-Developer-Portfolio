@@ -59,6 +59,12 @@ h2{
     padding: 20px;
     box-shadow: 10px 10px 40px gray;
 }
+#pro{
+    border-left: 7px solid tomato;
+}
+#junior{
+    border-left: 7px solid blue;
+}
 footer p{
     text-align: center;
     color: gray;
